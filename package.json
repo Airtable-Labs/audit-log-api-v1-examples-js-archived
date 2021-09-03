@@ -1,0 +1,29 @@
+{
+  "name": "audit-log-api-examples-js",
+  "version": "0.0.1",
+  "description": "A collection of sample Node JS scripts which can be used to request, retrieve, and ingest Airtable Audit Logs into third-party systems",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx standard",
+    "lint:fix": "npx standard --fix"
+  },
+  "keywords": [
+    "airtable",
+    "audit logs"
+  ],
+  "author": "enterprise@airtable.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "get-stream": "^6.0.1",
+    "gunzip-maybe": "^1.4.2",
+    "npm": "^7.21.1",
+    "splunk-logging": "^0.11.1",
+    "sumo-logger": "^2.7.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
