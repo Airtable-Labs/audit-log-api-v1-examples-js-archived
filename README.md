@@ -1,6 +1,6 @@
 # Airtable Audit Log API Examples
 
-This repository has a collection of sample scripts which can be used to request, retrieve, and ingest Airtable Audit Logs into various third-party systems.
+This repository has a collection of sample scripts which can be used to request, retrieve, and ingest [Airtable Enterpise audit logs](https://support.airtable.com/hc/en-us/articles/4406956857111-Enterprise-audit-log) into various third-party systems.
 
 Note: Audit Logs are only available on the Airtable Enterprise plan.
 
