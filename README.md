@@ -1,14 +1,14 @@
 
 | ℹ️ **Note** ℹ️ |
 |---|
-| This repository has been archived and made read-only because the examples within use Airtable's Audit Logs V1. Airtable Audit Logs V2 are available [here](https://airtable.com/developers/web/api/audit-logs-overview). Specific SIEM examples may be available from the [support article](https://support.airtable.com/hc/en-us/articles/4406956857111-Enterprise-audit-log) in the future. |
+| This repository has been archived and made read-only because the examples within use Airtable's Audit Logs V1. Airtable Audit Logs V2 are available [here](https://airtable.com/developers/web/api/audit-logs-overview). Specific SIEM examples may be available from [the support article](https://support.airtable.com/docs/en/how-to-access-enterprise-audit-logs) in the future. |
  
 
 ---
 
 # Airtable Audit Log API Examples
 
-This repository has a collection of sample scripts which can be used to request, retrieve, and ingest [Airtable Enterpise audit logs](https://support.airtable.com/hc/en-us/articles/4406956857111-Enterprise-audit-log) (V1) into various third-party systems.
+This repository has a collection of sample scripts which can be used to request, retrieve, and ingest [Airtable Enterpise audit logs](https://support.airtable.com/docs/en/how-to-access-enterprise-audit-logs) (V1) into various third-party systems.
 
 Note: Audit Logs are only available on the Airtable Enterprise plan.
 
